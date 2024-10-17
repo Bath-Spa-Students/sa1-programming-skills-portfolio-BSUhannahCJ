@@ -1,3 +1,19 @@
+
+"""
+Fill in the blanks below
+```python
+word1 = 
+word2 = 
+word3 =
+
+# Use string concatenation to combine the variables and print the phrase
+_____(_________)
+
+"""
+
+
+
+
 """First exercise: string concatenation with the phrase 'Coding is Cool' """
 
 Word1 = "Coding " # first variable with the first word/string of the required phrase
