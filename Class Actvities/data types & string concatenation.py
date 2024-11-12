@@ -1,3 +1,4 @@
+Hannah = 'chan judeh'
 print(type(Hannah)) #this command allows us to check the data type of the value inside the variable.
 
 #the command below allows us to change the data type of the values in  the variables
