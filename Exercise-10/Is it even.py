@@ -20,4 +20,5 @@ def MAIN():
     even_or_odd(number) #calling previous function 
 
 #calling the function
-MAIN()
+if __name__ == "__main__":
+    MAIN()
